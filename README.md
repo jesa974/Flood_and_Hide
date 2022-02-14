@@ -1,9 +1,9 @@
 # RedTeam
 
-![GitHub contributors](https://img.shields.io/github/contributors/jesa974/RedTeam?color=green&style=flat-square)
-![GitHub top language](https://img.shields.io/github/languages/top/jesa974/RedTeam?color=orange&label=Python&style=flat-square)
-![GitHub repo size](https://img.shields.io/github/repo-size/jesa974/RedTeam?label=Project%20size&style=flat-square&color=lightgrey)
-[![Visits Badge](https://badges.pufler.dev/visits/jesa974/RedTeam)](https://badges.pufler.dev?style=for-the-badge)
+![GitHub contributors](https://img.shields.io/github/contributors/jesa974/Flood_and_Hide?color=green&style=flat-square)
+![GitHub top language](https://img.shields.io/github/languages/top/jesa974/Flood_and_Hide?color=orange&label=Python&style=flat-square)
+![GitHub repo size](https://img.shields.io/github/repo-size/jesa974/Flood_and_Hide?label=Project%20size&style=flat-square&color=lightgrey)
+[![Visits Badge](https://badges.pufler.dev/visits/jesa974/Flood_and_Hide)](https://badges.pufler.dev?style=for-the-badge)
 
 Goal of the exercice was to hide a file containing a flag into a Blue Team's computer.
 
@@ -13,13 +13,13 @@ Goal of the exercice was to hide a file containing a flag into a Blue Team's com
 Download the script from GitHub
 
 ```
-sudo git clone https://github.com/jesa974/RedTeam/
+sudo git clone https://github.com/jesa974/Flood_and_Hide/
 ```
 
 Move into the repository
 
 ```
-cd ./RedTeam/
+cd ./Flood_and_Hide/
 ```
 
 Make the script executable
